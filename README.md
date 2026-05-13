@@ -1,7 +1,7 @@
-# PostgreSQL Practice
+# MySQL Practice
 
-A clean collection of **PostgreSQL (SQL)** practice queries solved from  
-**HackerRank** and **LeetCode**.
+A clean collection of **MySQL (SQL)** practice queries solved from  
+ **LeetCode**.
 
 This repository focuses on:
 - Strong SQL fundamentals
@@ -22,15 +22,13 @@ This repository focuses on:
 
 ## 🧪 Practice Sources
 
-- HackerRank (SQL)
 - LeetCode (Database)
 
 ---
 
 ## 📂 Structure
 
-pg-sql-practice/
-├── hackerrank/
+MySql-practice/
 ├── leetcode/
 └── README.md
 
